@@ -16,14 +16,14 @@ If the project is unfinished, draw up a plan for the missing developed elements 
 Мы вапще-то сами придумали!
 ## 2 RESULT Promotion
 After reviewing our super-waiter's documentation, we, like responsible students, got to work on the project in the classroom lab. We managed to figure out how to create our own map, adjust it, place fences, and assign stopping points, and even launched test routes in practice. We're truly amazing—the results are available at this link:
-#[Video report](https://drive.google.com/drive/folders/1fNvKaHVhsuuSYGf5xpiLR8Y7fz7URTRt?usp=drive_link)
+[#Video report](https://drive.google.com/drive/folders/1fNvKaHVhsuuSYGf5xpiLR8Y7fz7URTRt?usp=drive_link)
 
 Мы вапще-то крутышки!
 
 ## 3 Guided tour
 To advance our waiter modification work, we decided to explore our super lab and create a tour of it, with corresponding text at the appropriate stops.
-###[Excursion text](https://github.com/Katapo13/Guide-robot-Keenon/blob/main/%D0%A2%D0%95%D0%9A%D0%A1%D0%A2%20%D0%AD%D0%9A%D0%A1%D0%9A%D0%A3%D0%A0%D0%A1%D0%98%D0%98.docx)
+[###Excursion text](https://github.com/Katapo13/Guide-robot-Keenon/blob/main/%D0%A2%D0%95%D0%9A%D0%A1%D0%A2%20%D0%AD%D0%9A%D0%A1%D0%9A%D0%A3%D0%A0%D0%A1%D0%98%D0%98.docx)
 Since our robot cannot reproduce text on its own, we have prepared a voiceover for the corresponding route: at the point there is a corresponding audio accompaniment
-###[Excursion audio](https://drive.google.com/drive/folders/1k_Q0Nts54swbHzKWSY5EaTY6Tia4i7sw?usp=sharing)
+[###Excursion audio](https://drive.google.com/drive/folders/1k_Q0Nts54swbHzKWSY5EaTY6Tia4i7sw?usp=sharing)
 
 Вот такие пироги, дефчонки тащат!
