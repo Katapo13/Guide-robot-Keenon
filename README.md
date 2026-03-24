@@ -105,7 +105,7 @@ The excursion includes the following key points:
 ## 👥 Project Team
 
 The project was completed by the best students of BrSTU (yes, that's us!):
-- Katsiaryna Mitskevich
+- Ekatserina Mitskevich
 - Anna Kot
 
 ---
