@@ -2,7 +2,7 @@
 
 Creating software for a robotic tour guide based on the Keenon robot
 
-![Keenon Robot](robot.jpg)
+![Keenon Robot](robot1.jpg)
 
 ---
 
@@ -80,7 +80,7 @@ The excursion includes the following key points:
 
 ---
 
-> *Link to the video of the robotic tour guide in action will be added here*
+> *Link to the video of the robotic tour guide in action will be added here*.(https://drive.google.com/drive/folders/1OAi7V_XIGeRMT8DFja-HM2gMuJAxAM7c)
 
 > **Note:** The map created during the second stage was maliciously deleted and had to be recreated during this stage.
 
@@ -105,9 +105,10 @@ The excursion includes the following key points:
 ## 👥 Project Team
 
 The project was completed by the best students of BrSTU (yes, that's us!):
-- Katsiaryna Mitskevich
+- Ekaterina Mitskevich
 - Anna Kot
 
+![Robot and we](weandrobot.jpg)
 ---
 
 ## 🙏 Acknowledgments
