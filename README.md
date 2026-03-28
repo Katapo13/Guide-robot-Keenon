@@ -2,7 +2,7 @@
 
 Creating software for a robotic tour guide based on the Keenon robot
 
-![Keenon Robot](robot.jpg)
+![Keenon Robot](robot1.jpg)
 
 ---
 
