@@ -98,7 +98,8 @@ The excursion includes the following key points:
 - Created audio accompaniment for each point
 - Selected optimal robot operating modes
 - Integrated audio into the route
-- Conducted robot operation testing
+- Conducted robot operation testing in real
+- It was used in real-life situations, namely, as a tour guide at the "Holidays at BrSTU" event
 
 ---
 
