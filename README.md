@@ -80,7 +80,7 @@ The excursion includes the following key points:
 
 ---
 
-> *Link to the video of the robotic tour guide in action will be added here*
+> *Link to the video of the robotic tour guide in action will be added here*.(https://drive.google.com/drive/folders/1OAi7V_XIGeRMT8DFja-HM2gMuJAxAM7c)
 
 > **Note:** The map created during the second stage was maliciously deleted and had to be recreated during this stage.
 
@@ -108,6 +108,7 @@ The project was completed by the best students of BrSTU (yes, that's us!):
 - Ekaterina Mitskevich
 - Anna Kot
 
+![Robot and we](weandrobot.jpg)
 ---
 
 ## 🙏 Acknowledgments
